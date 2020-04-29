@@ -3,3 +3,5 @@ data/test.csv
 data/train.csv
 Information/data_description.txt
 data/Variable analysis1.xlsx
+data/test_preprocessed.csv
+data/train_preprocessed.csv
